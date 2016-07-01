@@ -66,5 +66,6 @@ function dividir()
 	divid = numUno / numDos;
 
 	alert("La division es: " + divid);
+	alert("nada");
 }
 
