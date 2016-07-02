@@ -5,14 +5,17 @@ en el cuadro de texto "RESULTADO".*/
 function MostrarAumento()
 {
 
-	var sueldo = 100;
+	var sueldo;
 	var resultado;
 
 	sueldo = document.getElementById('sueldo').value;
 	sueldo = parseInt(sueldo);
 
 	resultado = sueldo * 1.1;
-	alert(resultado);
+	
+	
 	
 	// como es un aumento es multiplicado, es * 1.1 
+
+	// (git gui) 1. github-crear 2.clonar 3.github, hd 
 }
