@@ -14,8 +14,7 @@ function MostrarAumento()
 	resultado = sueldo * 1.1;
 	
 	
-	
+	}
 	// como es un aumento es multiplicado, es * 1.1 
 
-	// (git gui) 1. github-crear 2.clonar 3.github, hd 
-}
+	// (git gui) 1. github-crear 2.clonar 3.commit 4. push
